@@ -1,0 +1,4 @@
+config.py
+bot.log
+.venv
+__pycache__
